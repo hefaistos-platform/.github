@@ -1,5 +1,5 @@
-# .github
-Welcome to HEFAISTOS Platform
+# Welcome to HEFAISTOS Platform
+
 # HEFAISTOS
 
 *The forge for hardcore Detectioniers, because your static wiki is a joke.*
